@@ -1,0 +1,6 @@
+1 Buscar la información
+2 Revisar la fuente
+3 Confirmar la noticia
+4 Revisar el destinatario
+5 Verificar el contenido antes
+6 Mirar el lenguaje que no contenga nada agresivo
