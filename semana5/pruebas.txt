@@ -1,0 +1,45 @@
+ Análisis de las rutas del servidor Express
+1. Ruta principal: http://localhost:3000
+Qué ocurre:
+El navegador realiza una petición GET a la ruta raíz (/) del servidor Express que está ejecutándose en el puerto 3000.
+Resultado mostrado:
+El servidor responde con el texto:
+Servidor activo
+Motivo:
+Esto sucede porque en el archivo server.js existe una ruta configurada de esta manera:
+app.get('/', (req, res) => {
+    res.send('Servidor activo');
+});
+2. Ruta saludo: http://localhost:3000/saludo
+Qué ocurre:
+El navegador envía una petición GET a la ruta /saludo.
+Resultado mostrado:
+El servidor responde mostrando:
+Hola comunidad
+Motivo:
+Esto ocurre porque el código tiene definida la siguiente ruta:
+app.get('/saludo', (req, res) => {
+    res.send('Hola comunidad');
+});
+3. Ruta mensaje: http://localhost:3000/mensaje/juan
+Qué ocurre:
+El navegador intenta acceder a la ruta /mensaje/juan.
+Resultado mostrado:
+Como esa ruta no existe en el código mostrado, Express responde con un error:
+Cannot GET /mensaje/juan
+Motivo:
+El servidor no tiene programada una ruta que coincida con /mensaje/juan, por lo
+ tanto Express devuelve un error 404 (ruta no encontrada).
+Nota adicional:
+Si existiera una ruta dinámica como esta:
+app.get('/mensaje/:nombre', (req, res) => {
+    res.send(`Hola ${req.params.nombre}`);
+});
+
+entonces al ingresar a:
+
+http://localhost:3000/mensaje/juan
+
+el navegador mostraría:
+
+Hola juan

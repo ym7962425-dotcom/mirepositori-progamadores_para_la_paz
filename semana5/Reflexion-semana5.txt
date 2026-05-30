@@ -1,0 +1,8 @@
+Las APIs son importantes para las comunidades porque facilitan
+el intercambio de informacion de manera rapida y organizada.
+por ejemplo, si una persona reporta una emergencia, un problema en la via
+o una actividad comunitaria,esa informacion puede llegar automaticamente
+a diferentes plataformas y usuarios sin necesidad de repetir el proceso.
+esto ayuda a mantener a todos informados en tiempo real y evita la perdida de datos.
+ademas permite, que las comunidades trabajen mas de forma coordinadas, mejorando la comunicacion
+la participacion ciudadana y la toma de desisiones frente a situaciones importante.
