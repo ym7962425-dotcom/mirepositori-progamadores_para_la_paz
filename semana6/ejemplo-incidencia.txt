@@ -1,0 +1,3 @@
+
+  "tipo": "Seguridad ciudadana",
+  "descripcion": "La comunidad reporta que una cámara de vigilancia del sector no funciona desde hace varias semanas.

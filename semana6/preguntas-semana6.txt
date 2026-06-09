@@ -1,0 +1,4 @@
+1. B. Un formato de intercambio de datos usado entre aplicaciones
+2. B. Leer datos enviados en formato JSON en una petición
+3. B. req.body
+4. C. { "nombre": "Juan" }
