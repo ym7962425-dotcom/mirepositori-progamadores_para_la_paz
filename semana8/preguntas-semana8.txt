@@ -1,0 +1,6 @@
+1. B. B. El software que administra el hardware y
+permite ejecutar programas.
+2. A. Ubuntu
+3. B. Una interfaz que permite ejecutar comandos
+directamente en el sistema.
+4. B. Usar contraseñas fuertes y proteger credenciales.

@@ -1,0 +1,6 @@
+1. Proteger las contraseñas utilizando claves seguras y
+ difíciles de adivinar.
+ 2. No compartir credenciales de acceso con otras personas para evitar
+  accesos no autorizados.
+  3. Mantener el software actualizado para corregir vulnerabilidades
+   y mejorar la protección del sistema.

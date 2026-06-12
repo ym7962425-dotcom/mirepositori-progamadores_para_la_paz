@@ -1,0 +1,8 @@
+Qué información muestra cada comando.
+Por qué es útil conocer información del sistema cuando se administra un servidor
+Comando uname -a:
+Muestra información detallada del sistema operativo, la versión del kernel y la arquitectura 
+del equipo. Comando whoami: Muestra el nombre del usuario actual que está utilizando el sistema. 
+Importancia:
+Conocer esta información ayuda a administrar servidores, verificar configuraciones, identificar
+ usuarios activos y solucionar problemas técnicos.

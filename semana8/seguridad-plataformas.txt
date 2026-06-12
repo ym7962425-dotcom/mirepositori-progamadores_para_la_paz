@@ -1,0 +1,5 @@
+Utilizar contraseñas seguras.
+No compartir información confidencial.
+Mantener el sistema actualizado.
+Verificar la identidad de los usuarios.
+Realizar copias de seguridad periódicas.
