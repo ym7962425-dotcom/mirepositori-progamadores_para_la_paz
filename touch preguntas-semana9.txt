@@ -1,0 +1,4 @@
+B. Un sistema que ejecuta aplicaciones y responde solicitudes de los usuarios.
+B. Que el servidor está esperando solicitudes en una dirección específica.
+B. Monitorear ejecución y registrar errores.
+A. Archivos que registran la actividad y eventos del sistema.

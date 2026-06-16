@@ -1,0 +1,10 @@
+Sistema operativo:
+El sistema operativo administra los recursos del computador y permite que los programas funcionen correctamente.
+Node.js:
+Node.js permite ejecutar código JavaScript fuera del navegador para crear aplicaciones y servidores web. Su uso es importante porque facilita el desarrollo de servicios rápidos y eficientes.
+Aplicación server.js:
+Es el archivo que contiene la programación y las instrucciones que seguirá el servidor. Es fundamental porque define cómo se procesan las solicitudes y qué respuestas reciben los usuarios.
+Puerto:
+Un puerto es el canal por el que un servidor recibe y envía información. Es necesario porque permite que las aplicaciones se comuniquen correctamente a través de la red.
+Logs:
+Los logs son registros que guardan información sobre las actividades y eventos del sistema. Son importantes porque ayudan a identificar errores, monitorear el rendimiento y mejorar la seguridad del servidor.
