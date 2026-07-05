@@ -1,0 +1,8 @@
+Pienso que una plataforma tecnológica que promueve la participación ciudadana debe contar con una base de datos 
+porque permite guardar la información de forma organizada y consultarla cuando sea necesario. También es importante 
+tener autenticación de usuarios para saber quién ingresa a la plataforma y evitar que personas no autorizadas accedan 
+a funciones o información privada. Además, proteger la información es fundamental para cuidar los datos personales y generar
+confianza en los usuarios. Si la información no está protegida, podría ser utilizada de manera incorrecta o caer en manos de
+personas que no deberían tener acceso. En mi opinión, estos elementos ayudan a que la plataforma funcione de forma segura, 
+organizada y confiable. De esta manera, las personas pueden participar con mayor tranquilidad y confianza. Además, se fortalece
+la transparencia y se protege la privacidad de toda la comunidad.

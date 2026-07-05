@@ -1,0 +1,4 @@
+B. Un sistema que permite almacenar y consultar información estructurada.
+A. Crear, leer, actualizar y eliminar datos.
+B. Identificar usuarios y controlar quién puede acceder a ciertas funciones.
+B. Para evitar riesgos de privacidad o uso indebido de la información.

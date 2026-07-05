@@ -1,0 +1,12 @@
+¿Qué es el login en una aplicación?
+El login es el proceso que permite identificar a un usuario para que pueda ingresar de forma segura a una aplicación.
+ De esta manera, cada persona accede únicamente a las funciones que le corresponden.
+
+¿Por qué algunas rutas deben estar protegidas?
+Porque pueden contener información privada o permitir acciones importantes que no deben estar disponibles para cualquier
+ persona. Esto ayuda a proteger los datos y evita accesos no autorizados.
+
+¿Qué tipo de información no debería exponerse públicamente?
+No se deben compartir contraseñas, documentos de identidad, teléfonos, direcciones, correos electrónicos, tokens, claves 
+de API ni cualquier otro dato sensible de la comunidad, ya que podría afectar la privacidad y la seguridad de las personas.
+
