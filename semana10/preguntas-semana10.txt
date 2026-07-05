@@ -1,0 +1,4 @@
+B. Una lista priorizada de tareas o funcionalidades por desarrollar.
+B. Una forma breve de expresar qué necesita un usuario y para qué lo necesita.
+B. Automatizar tareas repetitivas y notificaciones de seguimiento no sensibles.
+B. Como canal de coordinación, convocatoria y notificación comunitaria.
