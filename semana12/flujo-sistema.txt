@@ -1,0 +1,17 @@
+Flujo del sistema Petición en 3 Clics
+
+Un ciudadano crea una causa.
+Ejemplo: Un vecino registra una petición para solicitar la reparación
+ de una vía en mal estado.
+La causa queda registrada en la base de datos.
+Ejemplo: El sistema guarda el título, la descripción y la fecha
+ de creación de la petición.
+Otros ciudadanos pueden apoyar la causa.
+Ejemplo: Los habitantes de la comunidad ingresan a la plataforma y
+ hacen clic en "Apoyar" para respaldar la solicitud.
+El sistema cuenta los apoyos.
+Ejemplo: Cada apoyo se registra automáticamente y el contador muestra 
+el número total de personas que respaldan la causa.
+El sistema genera un documento PDF con la petición.
+Ejemplo: Cuando la petición está lista, la plataforma crea un PDF con la información
+ de la causa y el total de apoyos para presentarlo formalmente ante las autoridades.

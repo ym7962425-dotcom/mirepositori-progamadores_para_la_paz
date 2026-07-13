@@ -1,0 +1,14 @@
+Durante este curso entendí que la tecnología puede ser mucho más que una herramienta para programar.
+ Aprendí que, si se utiliza de forma responsable, puede ayudar a que las personas participen más en
+ los asuntos de su comunidad y encuentren soluciones a problemas reales. Con el desarrollo de Petición 
+en 3 Clics comprendí la importancia de crear plataformas sencillas, seguras y fáciles de usar, que permitan 
+a los ciudadanos expresar sus necesidades y hacer seguimiento a sus peticiones. También aprendí a trabajar
+ con bases de datos, automatizar procesos y proteger la información de los usuarios. En lo personal, este 
+curso me enseñó que detrás de cada aplicación debe existir un propósito que beneficie a las personas y genere
+ un impacto positivo en la sociedad.
+ aprendí que la tecnología puede ayudar a resolver problemas de las comunidades. Comprendí
+ la importancia de organizar la información de forma segura utilizando bases de datos. También conocí cómo el 
+backend permite procesar la información y generar documentos automáticamente. Aprendí el uso de Git y GitHub 
+para administrar proyectos. Además, entendí que proteger los datos personales es una responsabilidad importante. 
+Las automatizaciones ayudan a ahorrar tiempo y mejorar la comunicación. Todo este conocimiento puede aplicarse
+ para desarrollar soluciones útiles para la sociedad. Fue una experiencia que fortaleció mis habilidades tecnológicas.

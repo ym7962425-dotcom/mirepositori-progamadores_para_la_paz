@@ -1,0 +1,21 @@
+Entidad: Causa
+
+id: Identificador único de la causa.
+titulo: Nombre de la causa.
+descripción: Explicación del problema o la solicitud.
+fecha: Fecha en la que se registró la causa.
+
+¿Para qué sirve?
+La entidad Causa almacena la información principal de cada petición creada por un ciudadano
+ para que pueda ser consultada y apoyada por la comunidad.
+
+Entidad: Apoyo
+
+id: Identificador único del apoyo.
+causa id: Identificador de la causa a la que pertenece el apoyo.
+nombre: Nombre de la persona que brinda el apoyo.
+fecha: Fecha en la que se registró el apoyo.
+
+¿Para qué sirve?
+La entidad Apoyo registra cada respaldo que recibe una causa y lo relaciona con la petición correspondiente, 
+permitiendo contar los apoyos y demostrar el interés de la comunidad.

@@ -1,0 +1,8 @@
+Evento: Se registra una nueva petición en la plataforma.
+
+Mensaje: "Se ha registrado una nueva petición en la plataforma.
+ Revísala para conocer los detalles."
+
+Información que no debe enviarse: Números de identificación, 
+teléfonos, direcciones, correos electrónicos, contraseñas,
+ comentarios privados ni ningún otro dato personal o sensible de los usuarios.
